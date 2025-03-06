@@ -1,0 +1,9 @@
+{
+	"name": "questiondatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40a39818-7d97-47c2-9f09-6982460d1408",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "charanjmannewdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1f45a34-bbdb-4aac-9412-faeec59afbfb",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
